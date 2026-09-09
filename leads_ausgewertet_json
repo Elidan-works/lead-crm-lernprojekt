@@ -1,0 +1,17 @@
+[
+  {
+    "firmenname": "Musterfirma",
+    "budget": 17000,
+    "status": "hei\u00df"
+  },
+  {
+    "firmenname": "Beispiel AG",
+    "budget": 4000,
+    "status": "warm"
+  },
+  {
+    "firmenname": "Testkunde GmbH",
+    "budget": 800,
+    "status": "kalt"
+  }
+]
