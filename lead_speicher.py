@@ -30,3 +30,5 @@ for zeile in ergebnis:
     print(f"{zeile[1]}: {zeile[2]} Euro ({zeile[3]})")
 
 print(ausgewerte_leads)
+
+# Test für Branch-Funktion
