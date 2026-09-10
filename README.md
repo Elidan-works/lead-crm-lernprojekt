@@ -1,2 +1,3 @@
 # Lead CRM Lernprojekt
-Testbeispielt für eine pull-Aufgabe
+Testbeispiel für eine pull-Aufgabe
+Erweiterung Testbeispiel - Änderungsvorschlag
